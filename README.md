@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danpier Dos Reis</h1>
 <h3 align="center">Full Stack developer from Chile</h3>
 
-- 🔭 I’m currently working on **Private Enterprise**
-
-- 🌱 I’m currently learning **Debug Tools, Unit Testing, Json Web Token**
-
 - 💬 Ask me about **HTML5(CSS, JavaScript), Laravel, C#, DataBases**
 
 - 📫 How to reach me **danpier_dr@hotmail.com**
